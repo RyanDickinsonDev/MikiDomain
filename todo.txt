@@ -1,0 +1,6 @@
+Create Admin Dashboard with the ability to 
+- CRUD Docker Containers
+- Manage DNS records for domains
+- Track IP's ban/block/blacklist ip addresses
+- Wipe Account(s) for missed payments
+- Send email to users for 
